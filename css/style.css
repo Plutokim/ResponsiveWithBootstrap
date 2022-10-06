@@ -1,0 +1,14 @@
+ .navbar-brand-color{
+    color: #C62C45 !important;
+}
+.background{
+    background: rgba(0, 0, 0, 0.8);
+    background-image: url("../img/header-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+.jumbotron{
+    background: transparent;
+}
